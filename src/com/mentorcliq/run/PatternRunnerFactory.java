@@ -1,4 +1,4 @@
-package com.mentorcliq.runner;
+package com.mentorcliq.run;
 
 import com.mentorcliq.patterns.decorator.DecoratorRunner;
 import com.mentorcliq.patterns.template.TemplateRunner;

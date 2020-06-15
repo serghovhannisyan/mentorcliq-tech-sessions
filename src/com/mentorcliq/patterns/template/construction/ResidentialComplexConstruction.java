@@ -1,4 +1,4 @@
-package com.mentorcliq.patterns.template;
+package com.mentorcliq.patterns.template.construction;
 
 import com.mentorcliq.patterns.decorator.WindowsStoreCompany;
 import com.mentorcliq.patterns.decorator.model.Window;
@@ -17,7 +17,9 @@ public class ResidentialComplexConstruction extends ConstructionTemplate {
 
     @Override
     public void installWindows() {
-        Window window = WindowsStoreCompany.orderBasicWindow().build();
+        Window window = WindowsStoreCompany
+                .orderBasicWindow()
+                .build();
         System.out.println("Install " + window.getDescription());
     }
 

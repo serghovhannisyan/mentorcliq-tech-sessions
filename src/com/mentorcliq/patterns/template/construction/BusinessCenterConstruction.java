@@ -1,4 +1,4 @@
-package com.mentorcliq.patterns.template;
+package com.mentorcliq.patterns.template.construction;
 
 import com.mentorcliq.patterns.decorator.WindowsStoreCompany;
 import com.mentorcliq.patterns.decorator.model.Window;

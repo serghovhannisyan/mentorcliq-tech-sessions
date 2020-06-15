@@ -1,6 +1,6 @@
 package com.mentorcliq.patterns.decorator;
 
-import com.mentorcliq.runner.PatternRunner;
+import com.mentorcliq.run.PatternRunner;
 import com.mentorcliq.patterns.decorator.model.Window;
 
 public class DecoratorRunner implements PatternRunner {

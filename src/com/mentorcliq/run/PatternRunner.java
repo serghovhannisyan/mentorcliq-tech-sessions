@@ -1,4 +1,4 @@
-package com.mentorcliq.runner;
+package com.mentorcliq.run;
 
 public interface PatternRunner {
 

@@ -1,6 +1,6 @@
 package com.mentorcliq.patterns.template;
 
-import com.mentorcliq.runner.PatternRunner;
+import com.mentorcliq.run.PatternRunner;
 
 public class TemplateRunner implements PatternRunner {
 

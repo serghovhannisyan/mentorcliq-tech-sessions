@@ -1,4 +1,4 @@
-package com.mentorcliq.patterns.decorator;
+package com.mentorcliq.patterns.decorator.decoration;
 
 import com.mentorcliq.patterns.decorator.model.Window;
 

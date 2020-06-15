@@ -1,4 +1,4 @@
-package com.mentorcliq.patterns.template;
+package com.mentorcliq.patterns.template.construction;
 
 public abstract class ConstructionTemplate {
 

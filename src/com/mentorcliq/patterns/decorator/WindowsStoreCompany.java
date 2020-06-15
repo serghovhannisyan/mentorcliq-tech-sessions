@@ -1,5 +1,7 @@
 package com.mentorcliq.patterns.decorator;
 
+import com.mentorcliq.patterns.decorator.decoration.UltraVioletRaysProtection;
+import com.mentorcliq.patterns.decorator.decoration.VoiceIsolation;
 import com.mentorcliq.patterns.decorator.model.BasicWindow;
 import com.mentorcliq.patterns.decorator.model.PremiumWindow;
 import com.mentorcliq.patterns.decorator.model.Window;
