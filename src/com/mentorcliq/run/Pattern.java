@@ -7,5 +7,6 @@ public enum Pattern {
     BRIDGE,
     FACADE,
     DECORATOR,
-    TEMPLATE
+    TEMPLATE,
+    ABSTRACT_FACTORY
 }
